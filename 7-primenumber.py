@@ -1,14 +1,11 @@
-print("Enter Number Between 1 to 5")
+num=int(input("Enter Number to check if it is prime number or  not:"))
 
-n=input()
-n=int(x)
-i=2
-while i<n:
-    if n%i==0:
-        break
-i=i+1
-
-if i==n:
-    print("prime number")
+if num>1:
+    for i in range(2,num):
+        if num%i==0:
+            print(num, "IS Not a Prime Number")
+            break
+    else:
+        print(num,"Is a Prime number")
 else:
-    print("not prime")
+    print(num, "Is not a prime number out of loop")
