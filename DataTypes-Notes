@@ -1,0 +1,76 @@
+14 April 2020
+
+DATATYPES
+
+Numeric
+	intergers
+	Floats
+	Exponential - Pending
+	Complex - Pending
+
+None 
+
+Boolean 
+	True
+	False
+
+Sequences:
+	str
+	lists
+	tuple
+	bytes - Pending
+	bytearray - Pending
+
+
+15TH April 2020
+---------------
+DATATYPES
+
+Sets : Order of elements in not maintained.
+Defined by : {}
+
+
+Mapping types : group pf elements with keyValue pair form
+
+-----------------------------------------------------------
+DETERMINING THE DATATYPE OF A VARIABLE 
+
+Reserved Keywords in Python
+Reserved words can’t be used as identifiers for other programming elements like name of variable, function etc.
+
+and
+except
+lambda
+with
+as
+finally
+nonlocal
+while
+assert
+false
+None
+yield
+break
+for
+not
+class
+from
+or
+continue
+global
+pass
+def
+if
+raise
+del
+import
+return
+elif
+in
+True
+else
+is
+try
+
+------------------------------------------------------------------
+
