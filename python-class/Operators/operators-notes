@@ -1,0 +1,45 @@
+OPERATORS
+---------
+
+a + b 
+
+'+' - Operator
+a & b -  operand
+
+Arithmetic operators
+Assignment operators
+Unary minus operators
+Relations operators
+Logical operators
+Boolean operators
+Bitwise operators
+Membership Operator
+Identity Operator
+-------------------------
+
+Arithmetic operators
+
+    Operators used for basic arithmetic operations are Arithmetic operators
+
+    + - Addition ( adds two values)
+    - - Sub ( substracts one value from another)
+    * - Mul (mul numbers)
+    / - division ( divides)
+    % - Modulus operator
+    ** - Exponent operator
+    // - Integer division
+
+Assignment Operators
+
+    Operator used to store right side value into left side value
+    e.g a = 10
+
+    = - Assignment Operator
+    += - Adds right operand to left operand & stores the result into left operand
+    -= - Substracts right operand to left operand & stores the result into left operand
+
+     **= - pending
+     // = - pending
+
+Unary minus operators - Denoted by minus symbol (-)
+When this operator is used before a variable the value is negated.
