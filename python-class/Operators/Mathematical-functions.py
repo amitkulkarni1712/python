@@ -9,4 +9,3 @@ print(x)
 r = 17.5
 area = math.pi * r ** 2
 print("Area of circle = ", area)
-
