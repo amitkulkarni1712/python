@@ -43,3 +43,75 @@ Assignment Operators
 
 Unary minus operators - Denoted by minus symbol (-)
 When this operator is used before a variable the value is negated.
+-----------------------------------------------------------------------------------------------
+
+17 April 2020
+
+------------
+Relational Operators
+
+Relational operator are used to compare two quantities.
+
+> - (a>b) Greater than operator. If the value of left operand is greater than the value of right operand, it gives true else else (e.g - a>b )
+
+>= - a>=b Greater than or equal operator. If the value of left operand is greater or equal than that of right operand, it gives True else False - False
+
+<  - a<=b
+
+<= - less than equal to
+
+== - Equal operator
+
+!= - Not equal to
+
+Logical Operator
+---------------
+
+And - x and y . If X is false, it returns X, else Y
+
+or - x or y . If is False, it returns Y, otherwise it returns x
+
+not - not x . If X is False , it returns True, otherwise True - Pending ( Better explanation required)
+
+----------------------------------------------------------
+
+Boolean Operators
+x = true
+y = False
+
+and - x and y .Both x & y True , Then it returns true else False
+
+or - x or y  . Ether x or y is True. it returns True else False
+
+not - not x   If x is True, it returns False , else true
+
+
+Bitwise Operator - Pending
+
+----------------------------------------------
+
+Membership Operator
+
+- To test for membership in sequence such list, tuples, dictionary , string
+
+in  -
+
+not in -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
