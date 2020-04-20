@@ -98,10 +98,12 @@ in  -
 
 not in -
 
+-------------------------------------------------------------------
 
+Identity Operators :
 
-
-
+These Operators compare the memory locations of two objects. Hence it is possible to know weather the two object are same or not.
+Memory location of an object can be seen using the id() function.
 
 
 
