@@ -15,3 +15,11 @@ OUTPUT STATEMENTS:
 To display some output or result. print()
 
 The print() statement
+
+
+22 April 2020
+INPUT STATEMENTS
+-------------
+ To Accept input from keyboard, python Provides the input() function. This function takes a value from keyboard & Returns it as string
+
+ 
