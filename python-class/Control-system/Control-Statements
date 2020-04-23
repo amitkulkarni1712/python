@@ -1,0 +1,23 @@
+23/04/2020
+CONTROL STATEMENTS:
+
+Statements which control or change the flow of execution
+
+if statement
+if .. else statement
+if..elif..else statement
+while loop
+for loop
+else suite
+break statement
+continue statement
+pass statement
+assert statement
+return statement
+----------------------------------
+
+if statement : Statement is used to execute one or more statements depending on the condition ( True or False )
+
+
+
+
