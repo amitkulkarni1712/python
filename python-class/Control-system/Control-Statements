@@ -18,6 +18,12 @@ return statement
 
 if statement : Statement is used to execute one or more statements depending on the condition ( True or False )
 
+if else
+
+if elif else
+
+while loop: It is a loop used to execute group of statments several times repeteadly depending on condition is True False
+
 
 
 
